@@ -1,0 +1,2 @@
+.block { width: 20px; height: 20px; background-color: #ccc; border: 1px solid #aaa; }
+.block:hover { background-color: #aaa; }
